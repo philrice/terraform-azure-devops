@@ -5,8 +5,8 @@ parameters:
   TerraformDirectory:
   TerraformBackendServiceConnection: Terraform
   TerraformEnvironmentServiceConnection: Terraform
-  TerraformBackendResourceGroup: terraform
-  TerraformBackendStorageAccount: pdrterraformdevopsazurestate
+  TerraformBackendResourceGroup: RG-terraform
+  TerraformBackendStorageAccount: terraformazurestate
   TerraformBackendStorageContainer: terraformstate
   TerraformBackendLocation: UK South
 
