@@ -1,14 +1,14 @@
 parameters:
   environment: stage
   provisionStorage: false
-  TerraformVersion: 0.12.21
+  TerraformVersion: 1.5.4
   TerraformDirectory:
   TerraformBackendServiceConnection: Terraform
   TerraformEnvironmentServiceConnection: Terraform
   TerraformBackendResourceGroup: terraform
-  TerraformBackendStorageAccount: terraformstarterstate
+  TerraformBackendStorageAccount: pdrterraformdevopsazurestate
   TerraformBackendStorageContainer: terraformstate
-  TerraformBackendLocation: North Europe
+  TerraformBackendLocation: UK South
 
 steps:
 
