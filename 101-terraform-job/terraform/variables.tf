@@ -19,5 +19,5 @@ variable "location" {
 variable "department" {
   type    = string
   description = "A sample variable passed from the build pipeline and used to tag resources."
-  default = "Platform Engineering"
+  default = "Platform Engineering Dept"
 }

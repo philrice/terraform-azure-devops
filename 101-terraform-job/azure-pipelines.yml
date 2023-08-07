@@ -19,4 +19,4 @@ stages:
     # Pass variables as environment variables.
     # Terraform recognizes TF_VAR prefixed environment variables.
     TerraformEnvVariables:
-      TF_VAR_department: engineering
+      #TF_VAR_department: platform engineering
