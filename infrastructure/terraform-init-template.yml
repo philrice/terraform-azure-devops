@@ -6,7 +6,7 @@ parameters:
   TerraformBackendServiceConnection: Terraform
   TerraformEnvironmentServiceConnection: Terraform
   TerraformBackendResourceGroup: RG-terraform
-  TerraformBackendStorageAccount: terraformazurestate
+  TerraformBackendStorageAccount: pdrtfazurestate
   TerraformBackendStorageContainer: terraformstate
   TerraformBackendLocation: UK South
 
